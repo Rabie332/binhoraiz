@@ -10,7 +10,7 @@
         name="Dashboard"
         action="hr_dashboard_action"
         parent="hr.menu_hr_root"
-        sequence="0"
+        sequence="10"
     />
 
 </odoo>
